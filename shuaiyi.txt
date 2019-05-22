@@ -1,5 +1,5 @@
-git is a version control system.
-git is a free software.
+git is a version control system,Are you clear?
+git is a free software.ok?
 你好，我是吴艺色！
 收到！
 over!over!
